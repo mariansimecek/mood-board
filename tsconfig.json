@@ -3,7 +3,6 @@
     "compilerOptions": {
         "allowJs": true,
         "checkJs": true,
-        "moduleResolution": "nodenext",
         "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true,
         "resolveJsonModule": true,
